@@ -1,2 +1,2 @@
 # maths
-A Python programe which performs basic maths functions accessible through a menu.
+A Python programe which performs basic math operations accessible through a menu.
